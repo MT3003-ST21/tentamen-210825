@@ -1,0 +1,78 @@
+---
+title: "MT3003 tentamen"
+author: "[förnamn] [efternamn] ([personnummer])"
+date: '2021-08-25'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, error = TRUE, message = FALSE) # Ändra ej
+```
+
+## Försäkran och identifiering
+
+Jag, [förnamn] [efternamn] ([personnummer]), försäkrar att lösningarna bifogat i denna fil är mitt eget självständigt utförda arbete.
+
+```{r, echo = FALSE, out.width = "50%", fig.cap = "Bild på min identitetshandling och datorskärm"}
+knitr::include_graphics("[min_id_bild.jpg]")
+```
+
+## Uppgift 1
+
+Min tabell över de 10 äldsta pristagarna ges av
+
+```{r}
+# Min kod
+```
+
+Min tabell över könsfördelningen i respektive priskategori ges av
+```{r}
+# Min kod
+```
+
+Min tabell över antalet priser per födelseland ges av
+
+```{r}
+# Min kod
+```
+
+
+## Uppgift 2
+
+Min kod för att hitta val där antalet utdelade mandat skiljer sig från 349
+
+```{r}
+# Min kod
+```
+
+Min figur över mandatfördelningen vid svenska riksdagsval sedan 1973 ges av
+
+```{r}
+# Min kod
+```
+
+Min figur över mandatfördelningen vid riksdagsvalet 2018 ges av
+
+```{r}
+# Min kod
+```
+
+## Uppgift 3
+
+Min kod för att sammanfoga tabellerna till en gemensam tabell
+
+```{r}
+# Min kod
+```
+
+Min kod för att skapa en lista över länder där minst en av uppgifterna saknas
+
+```{r}
+# Min kod
+```
+
+Min figur över hur förväntad livslängd år beror på hälso- och sjukvårdskostnader ges av
+
+```{r}
+# Min kod
+```
